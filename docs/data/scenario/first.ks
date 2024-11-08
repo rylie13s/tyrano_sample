@@ -1,13 +1,17 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="sample"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
+[playbgm storage="bgm.ogg"]
+[bg storage=heiwatori2.jpg time=500]
 
-「走るか寝るかするメロス」[l][r]
+[link target=*tag_sleep] →寝る [endlink][r]
 
-メロスは激怒した。[l][r]
+「sample」[l][r]
+
+効果音1を選択してください。[l][r]
 
 必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
 
