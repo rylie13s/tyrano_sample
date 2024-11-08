@@ -1,25 +1,17 @@
 *start
 
 [title name="sample"]
-[hidemenubutton]
-[wait time=200]
-[freeimage layer="heiwatori2.png"]
-[playbgm storage="bgm.ogg"]
 [bg storage=heiwatori2.png time=500]
+use earphones for better experience [r]
+left click to start [l][r]
+[playbgm storage="bgm.ogg" loop=true]
 
-「sample」[l][r]
 [r]
 [r]
 [link target=*tag_sleep] →Start [endlink][r]
 
+*sentaku1
 効果音1を選択してください。[l][r]
-
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
-
-(中略)[l][r]
-
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
 
 [link target=*tag_sleep] →寝る [endlink][r]
 [link target=*tag_run] →走る [endlink][r]
