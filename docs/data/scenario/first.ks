@@ -3,13 +3,14 @@
 [title name="sample"]
 [hidemenubutton]
 [wait time=200]
-[freeimage layer="base"]
+[freeimage layer="heiwatori2.png"]
 [playbgm storage="bgm.ogg"]
-[bg storage=heiwatori2.jpg time=500]
-
-[link target=*tag_sleep] →寝る [endlink][r]
+[bg storage=heiwatori2.png time=500]
 
 「sample」[l][r]
+[r]
+[r]
+[link target=*tag_sleep] →Start [endlink][r]
 
 効果音1を選択してください。[l][r]
 
