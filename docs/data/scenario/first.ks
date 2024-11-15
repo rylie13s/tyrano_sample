@@ -67,6 +67,7 @@ choose your first sound.[r]
 *piano_1
 [cm]
 [fadeoutbgm time=500]
+[fadeoutse time=500 buf=1]
 [position left=0 top=500 width=1280 height=500 visible=true]
 [bg storage=heiwatori3blue.png time=500]
 piano_1 [r]

@@ -1,6 +1,7 @@
 *piano_2
 [cm]
 [fadeoutbgm time=500]
+[fadeoutse time=500 buf=1]
 [position left=0 top=500 width=1280 height=500 visible=true]
 [bg storage=heiwatori3purple.png time=500]
 piano_2 [r]
